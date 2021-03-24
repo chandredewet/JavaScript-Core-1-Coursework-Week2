@@ -6,6 +6,18 @@
 */
 
 var codeYourFutureIsGreat = true;
+var mozafarIsCool = false;
+
+if (1 + 1 === 2) {
+  var calculationCorrect = true;
+}
+
+var moreThan10Students = false;
+/* 
+ 
+  Does 1 + 1 = 2? true
+  Are there more than 10 students? false
+*/
 
 /* 
   DO NOT EDIT BELOW THIS LINE
